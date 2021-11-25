@@ -6,7 +6,7 @@ Description- A website which helps you to learn about triangles, contains quizze
 A website which quiz help you to learn about triangles better . It has four section a quiz about triangles , Angle calculator , Hypotenuse calculator , Area of Calculator
 
 
-<h4> Steps to use: </h4>
+# Steps to use: 
  - Click on section you want to open.
     - Play Quiz: Select answers and click on submit to check the score
     - Angles of Triangle: Enter values in input fields and click on submit to check results.
