@@ -13,7 +13,7 @@ A website which quiz help you to learn about triangles better . It has four sect
     - Check Hypotenuse: Enter values in input fields and click on submit to check results.
     - Calculate Area: Enter values in input fields and click on submit to check results.
 
-<h4> Programming Language: </h4>
+# Programming Language: 
  - HTML
  - CSS
  - Javascript
